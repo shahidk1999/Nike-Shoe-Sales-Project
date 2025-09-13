@@ -1,3 +1,4 @@
+# Shahid Khan
 Nike Shoe Sales Project
 
 This repository contains a Power BI dashboard created to analyze and visualize sales performance of Nike shoes.
