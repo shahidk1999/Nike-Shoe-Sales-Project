@@ -31,7 +31,7 @@ Rating: 0
 Includes product images to maintain visual context.
 
 3. Performance Page
-![Performance Page]()
+![Performance Page](https://github.com/shahidk1999/Nike-Shoe-Sales-Project/blob/main/Screenshot%202025-09-13%20155622.png)
 Provides sales performance analysis through interactive visuals:
 
 Unit Sale by Region: Shows regional distribution of sales (South leads with 2287 units).
@@ -72,3 +72,4 @@ High-level overview of products
 Key insights into pricing and sales
 
 Regional and monthly performance trends
+# I am delighted to share my project special thanks to my mentor @vikas98SSS for his proper guidance to complete this project 
